@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    box-sizing: border-box;
+    color: #E1E1E6;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    background: #0F0D13;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-card h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.title-card p{
+    font-size: 19px;
+    font-weight:100;
+    opacity: 80%;
+}
